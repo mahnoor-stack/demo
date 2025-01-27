@@ -1,2 +1,3 @@
 # demo
-this is my first repository of git hub 
+This is my first repository of git hub 
+Author - Mahnoor Asif
